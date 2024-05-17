@@ -150,6 +150,9 @@ header {
   .todo-list {
     width: 80%;
   }
+  .items-left-completed {
+    width: 80%;
+  }
 
   .footer {
     width: 80%;
@@ -169,7 +172,9 @@ header {
   .todo-list {
     width: 90%;
   }
-
+  .items-left-completed {
+    width: 90%;
+  }
   .footer {
     width: 90%;
   }
@@ -186,6 +191,9 @@ header {
   }
 
   .todo-list {
+    width: 95%;
+  }
+  .items-left-completed {
     width: 95%;
   }
 
@@ -207,7 +215,15 @@ header {
     width: 100%;
   }
 
+  .items-left-completed {
+    width: 100%;
+  }
+
   .footer {
     width: 100%;
+  }
+
+  .footer-icons{
+    font-size: 15px;
   }
 }
